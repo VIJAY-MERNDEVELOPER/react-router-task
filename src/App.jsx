@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 import Career from "./Career";
 import All from "./All";
 import Fsd from "./Fsd";
-import Ds from "./DS";
+import Ds from "./Ds";
 import Cyber from "./Cyber";
 import { Routes, Route } from "react-router-dom";
 function App() {
